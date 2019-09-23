@@ -1,0 +1,56 @@
+{
+  "movies": [
+    {
+      "title": "Lost world",
+      "year": "2017",
+      "rating": "7",
+      "actors": {
+        "name": "seagall",
+        "birthday": "19/12/1995",
+        "country": "Zambia",
+        "directors": {
+          "name": "stephen",
+          "birthday": "12/04/1983",
+          "country": "Zambia"
+        }
+      }
+    },
+    {
+      "title": "Avengers",
+      "year": "2016",
+      "rating": "8.5",
+      "actors": {
+        "name": "Chris Hemsworth",
+        "birthday": "12/04/1983",
+        "country": "United Stats of America",
+        "directors": {
+          "name": "Stan Lee",
+          "birthday": "12/04/1933",
+          "country": "United Stats of America"
+        }
+      }
+    }
+  ],
+  "users": [
+    {
+      "username": "hare",
+      "password": "Peter David",
+      "id": 1
+    },
+    {
+      "username": "hare",
+      "password": "Peter David",
+      "id": 2
+    },
+    {
+      "username": "hare",
+      "password": "Peter David",
+      "id": 3
+    },
+    {
+      "username": "mcdavid",
+      "password": "Peter David",
+      "id": 4
+    }
+  ]
+}
